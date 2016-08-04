@@ -1,0 +1,56 @@
+_repo: The-Chronicles-of-Clovis_3688
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Miln, Alen Aleksander
+    - Milne, Alan Alexander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+creator:
+  author:
+    agent_name: Saki
+    aliases:
+    - Munro, H. H. (Hector Hugh)
+    - Munro, Hector Hugh
+    birthdate: 1870
+    deathdate: 1916
+    gutenberg_agent_id: '152'
+    url: http://www.gutenberg.org/2009/agents/152
+    wikipedia: http://en.wikipedia.org/wiki/Saki
+description: Cover; The Chronicles of Clovis; Copyright; INTRODUCTION; CONTENTS; ESMÉ;
+  THE MATCH-MAKER; TOBERMORY; MRS. PACKLETIDE'S TIGER; THE STAMPEDING OF LADY BASTABLE;
+  THE BACKGROUND; HERMANN THE IRASCIBLE -- A STORY OF THE GREAT WEEP; THE UNREST-CURE;
+  THE JESTING OF ARLINGTON STRINGHAM; SREDNI VASHTAR; ADRIAN; THE CHAPLET; THE QUEST;
+  WRATISLAV; THE EASTER EGG; FILBOID STUDGE, THE STORY OF A MOUSE THAT HELPED; THE
+  MUSIC ON THE HILL; THE STORY OF ST. VESPALUUS; THE WAY TO THE DAIRY; THE PEACE OFFERING;
+  THE PEACE OF MOWSLE BARTON; THE TALKING-OUT OF TARRINGTON; THE HOUNDS OF FATE; THE
+  RECESSIONAL.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Satire, English'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'Esmé -- The match-maker -- Tobermory -- Mrs. Packletide''s tiger
+  -- The stampeding of Lady Bastable -- The background -- Hermann the irascible: a
+  story of the great weep -- The unrest-cure -- The jesting of Arlington Stringham
+  -- Sredni Vashtar  -- Adrian -- The chaplet -- The quest -- Wratislav -- The Easter
+  egg -- Filboid Studge, the story of a mouse that helped -- The music on the hill
+  -- The story of St. Vespaluus -- The way to the dairy -- The peace offering -- The
+  peace of Mowsle Barton -- The talking-out of Tarrington -- The hounds of fate --
+  The recessional -- A matter of sentiment -- The secret sin of Septimus Brope --
+  "Ministers of Grace" -- The remoulding of Groby Lington.'
+title: The Chronicles of Clovis
+url: http://www.gutenberg.org/ebooks/3688
