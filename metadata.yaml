@@ -1,5 +1,5 @@
 _repo: The-Chronicles-of-Clovis_3688
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Milne, A. A. (Alan Alexander)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '730'
     url: http://www.gutenberg.org/2009/agents/730
     wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saki
@@ -30,6 +33,8 @@ description: Cover; The Chronicles of Clovis; Copyright; INTRODUCTION; CONTENTS;
   MUSIC ON THE HILL; THE STORY OF ST. VESPALUUS; THE WAY TO THE DAIRY; THE PEACE OFFERING;
   THE PEACE OF MOWSLE BARTON; THE TALKING-OUT OF TARRINGTON; THE HOUNDS OF FATE; THE
   RECESSIONAL.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3688#The-Chronicles-of-Clovis
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
